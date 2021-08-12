@@ -4,11 +4,13 @@ function App() {
     <div className="App">
       <header className="App-header">
 	<h1>
-	  Hello, my dudes.
+	  PokerLessons
 	</h1>
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <button>
+	  Lesson 1
+        </button>
+	<br/>
+	<br/>
         <a
           className="App-link"
           href="https://reactjs.org"
