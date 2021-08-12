@@ -1,3 +1,4 @@
+import "./App.css"
 
 function App() {
   return (
@@ -6,7 +7,7 @@ function App() {
 	<h1>
 	  PokerLessons
 	</h1>
-        <button>
+	<button>
 	  Lesson 1
         </button>
 	<br/>
