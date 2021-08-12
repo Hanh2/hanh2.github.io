@@ -1,12 +1,12 @@
 import "./App.css"
 
+import {TopPanel} from "./Components.js"
+
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-	<h1>
-	  PokerLessons
-	</h1>
+	<TopPanel></TopPanel>
 	<button>
 	  Lesson 1
         </button>
