@@ -1,6 +1,6 @@
 export function TopPanel() {
   return (
-    <div classname="TopPanel"> 
+    <div className="TopPanel"> 
       <h1>
         PokerLessons
       </h1>
@@ -8,3 +8,4 @@ export function TopPanel() {
   );
 }
 
+export default TopPanel;

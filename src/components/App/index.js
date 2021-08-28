@@ -1,6 +1,6 @@
-import "./App.css"
+import "./style.css"
 
-import {TopPanel} from "./Components.js"
+import TopPanel from "../TopPanel"
 
 function App() {
   return (
