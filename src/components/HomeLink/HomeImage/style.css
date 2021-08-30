@@ -1,0 +1,15 @@
+.HomeImage {
+  display: flex;
+  flex-direction: column;
+  background-color: red;
+}
+
+.Triangle {
+  border-left: solid transparent;
+  border-right: solid transparent;
+  border-bottom: solid black;
+}
+
+.Square {
+  border: solid black;
+}

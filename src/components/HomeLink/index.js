@@ -1,5 +1,7 @@
+import HomeImage from "./HomeImage"
+
 function HomeLink() {
-  return <p>Home</p>;
+  return <p><HomeImage /></p>;
 }
 
 export default HomeLink;
