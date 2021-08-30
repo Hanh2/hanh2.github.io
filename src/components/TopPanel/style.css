@@ -10,23 +10,3 @@
   color: green;
 }
 
-.NavBar {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  background-color: purple;
-}
-
-li a {
-  display: block;
-  width: 60px;
-  text-align: center;
-  color: #000000;
-}
-
-.active {
-  background-color: red;
-}

@@ -6,12 +6,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-	<TopPanel></TopPanel>
-	<button>
-	  Lesson 1
-        </button>
-	<br/>
-	<br/>
+	      <TopPanel title="PokerLessons" numberOfLessons={3} currentLesson={0} />
+	    <button>Lesson 1</button>
+	  <br/>
+	  <br/>
         <a
           className="App-link"
           href="https://reactjs.org"
